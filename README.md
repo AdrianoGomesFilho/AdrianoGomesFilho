@@ -1,16 +1,13 @@
-## Hi there 👋
+👨‍💻Olá, meu nome é Adriano, atualmente estudo Análise e Desenvolvimento de Sistemas. Trabalho como advogado e crio soluções usando tecnologia. Meus projetos estão explicados no repositório e no meu Instagram (com vídeo).
 
-<!--
-**AdrianoGomesFilho/AdrianoGomesFilho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Quer implementar um projeto? Chama no 81992811496
 
-Here are some ideas to get you started:
+💻 Estudos:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Languages: JavaScript, Python, and more.
+
+📫 Connect with Me:
+
+LinkedIn: www.linkedin.com/in/adriano-gomes-803a091a4
+
+Instagram: https://www.instagram.com/adrianogomes.adv/
