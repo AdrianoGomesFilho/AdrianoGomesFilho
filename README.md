@@ -4,9 +4,9 @@ Quer implementar um projeto? Chama no 81992811496
 
 💻 Estudos:
 
-Languages: JavaScript, Python, and more.
+Linguagens dos projetos: JavaScript e Python.
 
-📫 Connect with Me:
+📫 Contatos:
 
 LinkedIn: www.linkedin.com/in/adriano-gomes-803a091a4
 
